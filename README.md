@@ -1,2 +1,2 @@
 # courseraHTMLproject
-HTML practice proj
+HTML practice project for learning.
